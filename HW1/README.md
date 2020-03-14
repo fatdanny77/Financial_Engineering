@@ -1,4 +1,4 @@
-# <h1> Learning Progress
+# <h1> HW1 Learning Progress
 # <h2> 1.Time Value of Money
 **FV = P(1+r/m)^mn**
   

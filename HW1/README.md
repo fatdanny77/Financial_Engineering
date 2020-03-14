@@ -1,6 +1,6 @@
 # HW1 Learning Progress
 ## 1.Time Value of Money
-**FV = P(1+r/m)^mn**
+### **FV = P(1+r/m)^mn**
   
 where
 * Future value (FV)
@@ -10,7 +10,7 @@ where
 * Compounded times per annum (m)
 
 ## 2.Continuous Compounding
-**FV = Pe^rn**
+### **FV = Pe^rn**
 
 ## 3.Bond Pricing 
 ![GITHUB](https://github.com/fatdanny77/Financial_Engineering/blob/master/HW1/%E6%9C%AA%E5%91%BD%E5%90%8D.jpg)

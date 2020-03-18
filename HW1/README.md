@@ -1,8 +1,7 @@
-# HW1 Learning Progress
+## [HW1 Code](https://github.com/fatdanny77/Financial_Engineering/blob/master/HW1/Finance%20Engineering%20HW1_ver5.ipynb)  
+## [HW1 Flow chart](https://github.com/fatdanny77/Financial_Engineering/blob/master/HW1/Flow_Chart.jpg)  
 
-    [Code](https://github.com/fatdanny77/Financial_Engineering/blob/master/HW1/Finance%20Engineering%20HW1_ver5.ipynb)
-    [Flow chart]
-
+# HW1 Learning Progress    
 ## 1.Time Value of Money
 ### **FV = P(1+r/m)^mn**
   

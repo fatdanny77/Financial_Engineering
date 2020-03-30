@@ -1,5 +1,5 @@
 # Financial Engineering HW2
-## [**Code**](https://github.com/fatdanny77/Financial_Engineering/blob/master/HW2/Financial%20Engineering%20HW2_ver2.ipynb)
+## [**Code**](https://github.com/fatdanny77/Financial_Engineering/blob/master/HW2/Financial%20Engineering_HW2_ver2.ipynb)
 #### 此次作業的Spot rate以及Forward Rate參考[網址1](https://www.trignosource.com/finance/spot%20rate.html#Calculator)以及[網址2](https://www.trignosource.com/finance/Forward%20rate.html#Calculator)，裡面的方式為直接計算一零息債券，因此本處亦同。   
      
 ## **Learning Process**
@@ -22,7 +22,7 @@
 ## 3. Spot Rate & Forward Rate
 #### 由於我們先前計算的YTM為將債券持有至到期日的折現率，若我們希望計算債券持有的特定期間的報酬率，我們便在計算其Spot Rate及Forward Rate，其中Forward Rate是藉由兩段Spot Rate所計算出來的。至於計算方法，Spot Rate之計算只需將債券分割成無數個零息債券即可。
 #### (1.) 第n期 Spot Rate
-## **P = F/(1 + r)^n**
+**P = F/(1 + r)^n**   
 where r is the spot rate
 
 #### (2.)第i至j期 Forward Rate

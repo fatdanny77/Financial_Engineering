@@ -16,3 +16,9 @@
 <img src="https://github.com/fatdanny77/Financial_Engineering/blob/master/HW2/figures/%E6%9C%AA%E5%91%BD%E5%90%8D1.jpg" width="50%" height="50%" />
 
 #### (2.) Modified Duration
+
+<img src="https://github.com/fatdanny77/Financial_Engineering/blob/master/HW2/figures/%E6%9C%AA%E5%91%BD%E5%90%8D2.jpg" width="50%" height="50%" />
+
+## 3. Spot Rate & Forward Rate
+#### 由於我們先前計算的YTM為將債券持有至到期日的折現率，若我們希望計算債券持有的特定期間的報酬率，我們便在計算其Spot Rate及Forward Rate，其中Forward Rate是藉由兩段Spot Rate所計算出來的。至於計算方法，Spot Rate之計算只需將債券分割成無數個零息債券即可。
+#### P = F/(1 + r)^n

@@ -1,11 +1,11 @@
 # Financial Engineering HW1
 
-## [I. Code](https://github.com/fatdanny77/Financial_Engineering/blob/master/HW1/Finance%20Engineering%20HW1_ver5.ipynb)  
-## [II. Flow chart](https://github.com/fatdanny77/Financial_Engineering/blob/master/HW1/Flow_Chart.jpg)  
+## [**I. Code**](https://github.com/fatdanny77/Financial_Engineering/blob/master/HW1/Finance%20Engineering%20HW1_ver5.ipynb)  
+## [**II. Flow chart**](https://github.com/fatdanny77/Financial_Engineering/blob/master/HW1/Flow_Chart.jpg)  
 
-## III. Learning Process    
-## 1.Time Value of Money
-### **FV = P(1+r/m)^mn**
+## **III. Learning Process**    
+### 1.Time Value of Money
+#### **FV = P(1+r/m)^mn**
   
 where
 * Future value (FV)
@@ -14,8 +14,8 @@ where
 * Years (n)
 * Compounded times per annum (m)
 
-## 2.Continuous Compounding
-### **FV = Pe^rn**
+### 2.Continuous Compounding
+#### **FV = Pe^rn**
 
 ## 3.Bond Pricing 
 ![GITHUB](https://github.com/fatdanny77/Financial_Engineering/blob/master/HW1/figures/%E6%9C%AA%E5%91%BD%E5%90%8D.jpg)

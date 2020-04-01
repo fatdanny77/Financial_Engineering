@@ -1,6 +1,6 @@
 # Financial Engineering HW2
 ## [**I. Code**](https://github.com/fatdanny77/Financial_Engineering/blob/master/HW2/Financial%20Engineering_HW2_ver3.ipynb)
-#### 此次作業的Spot rate以及Forward Rate參考[網址1](https://www.trignosource.com/finance/spot%20rate.html#Calculator)以及[網址2](https://www.trignosource.com/finance/Forward%20rate.html#Calculator)，裡面的方式為直接計算一零息債券，因此本處亦同。   
+#### 此次作業的 Spot rate 以及 Forward Rate 參考[網址1](https://www.trignosource.com/finance/spot%20rate.html#Calculator)以及[網址2](https://www.trignosource.com/finance/Forward%20rate.html#Calculator)，裡面的方式為直接計算一零息債券，因此本處亦同。在第二題計算 Spot rate 以及第三題計算 Forward rate，我分別示範了如何計算單張債券資訊以及同時輸入多張債券資訊的程式碼。   
 
 ##  **II. Flow Charts**
 #### [**Flow_Chart_YTM**](https://github.com/fatdanny77/Financial_Engineering/blob/master/HW2/Flow_Charts/Flow_Chart_YTM.jpg)、[**Flow_Chart_Spot_Rate**](https://github.com/fatdanny77/Financial_Engineering/blob/master/HW2/Flow_Charts/Flow_Chart_Spot_Rate.jpg)、[**Flow_Chart_Forward_Rate**](https://github.com/fatdanny77/Financial_Engineering/blob/master/HW2/Flow_Charts/Flow_Chart_Forward_Rate.jpg)、[**Flow_Chart_FR_Tab**](https://github.com/fatdanny77/Financial_Engineering/blob/master/HW2/Flow_Charts/Flow_Chart_FR_Tab.jpg)
@@ -11,7 +11,7 @@
 
 <img src="https://github.com/fatdanny77/Financial_Engineering/blob/master/HW2/figures/%E6%9C%AA%E5%91%BD%E5%90%8D.jpg" width="50%" height="50%" />
 
-#### 其中𝓌為交易日期到下一次Coupon發放日的間隔。
+#### 其中𝓌為交易日期到下一次 Coupon 發放日的間隔。
 ## 2. Duration
 #### 債券之存續期間為判定利率對於債券價格敏感度的指標。
 #### (1.) Macaulay Duration
@@ -23,7 +23,7 @@
 <img src="https://github.com/fatdanny77/Financial_Engineering/blob/master/HW2/figures/%E6%9C%AA%E5%91%BD%E5%90%8D2.jpg" width="50%" height="50%" />
 
 ## 3. Spot Rate & Forward Rate
-#### 由於我們先前計算的YTM為將債券持有至到期日的折現率，若我們希望計算債券持有的特定期間的報酬率，我們便在計算其Spot Rate及Forward Rate，其中Forward Rate是藉由兩段Spot Rate所計算出來的。至於計算方法，Spot Rate之計算只需將債券分割成無數個零息債券即可。
+#### 由於我們先前計算的 YTM 為將債券持有至到期日的折現率，若我們希望計算債券持有的特定期間的報酬率，我們便在計算其Spot Rate及Forward Rate，其中 Forward Rat e是藉由兩段 Spot Rate 所計算出來的。至於計算方法，Spot Rate 之計算只需將債券分割成無數個零息債券即可。
 #### (1.) 第n期 Spot Rate
 
 <img src="https://github.com/fatdanny77/Financial_Engineering/blob/master/HW2/figures/%E6%9C%AA%E5%91%BD%E5%90%8D4.jpg  " width="30%" height="30%" />

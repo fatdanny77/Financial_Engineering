@@ -3,7 +3,7 @@
 ## 李奕辰 經濟碩二 R07323042
 
 ### My financial engineering course in NTU. 
-### I'll upload all the homeworks and learning progress here.
+### I'll upload all the homeworks and learning process here.
 
 * 第1週	3/04 	
 **Time value of money, bonds, mortgages, and annuities**

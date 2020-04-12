@@ -19,5 +19,7 @@ where
 * P = put premium
 * S = the current price of the underline
 
-####(2.) Black-Scholes Model
-https://github.com/fatdanny77/Financial_Engineering/blob/master/HW3/Images/%E6%9C%AA%E5%91%BD%E5%90%8D4.jpg
+#### (2.) Black-Scholes Model
+<img src="https://github.com/fatdanny77/Financial_Engineering/blob/master/HW3/Images/%E6%9C%AA%E5%91%BD%E5%90%8D4.jpg" width="50%" height="50%" />
+
+#### (3.) Binomial Option Pricing Model (BOPM)

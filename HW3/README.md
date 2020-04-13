@@ -12,7 +12,7 @@
 
 ### 3. 債券評價
 #### (1.) Put-Call Pairty
-### **C + Ke^rt = P + S**    
+> ### **C + Ke^rt = P + S**    
 where
 * C = call premium
 * Ke^rt = present value of strike price

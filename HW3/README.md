@@ -24,3 +24,4 @@ where
 
 #### (3.) Binomial Option Pricing Model (BOPM)
 <img src="https://github.com/fatdanny77/Financial_Engineering/blob/master/HW3/Images/%E6%9C%AA%E5%91%BD%E5%90%8D2.jpg" width="50%" height="50%" />
+若為賣權，則為 max(K-S,0)。

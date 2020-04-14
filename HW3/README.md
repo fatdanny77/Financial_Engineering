@@ -20,6 +20,7 @@ where
 * S = the current price of the underline
 
 #### (2.) Black-Scholes Model
+假設時間為連續，股價呈常態分配。
 <img src="https://github.com/fatdanny77/Financial_Engineering/blob/master/HW3/Images/%E6%9C%AA%E5%91%BD%E5%90%8D4.jpg" width="50%" height="50%" />
 
 #### (3.) Binomial Option Pricing Model (BOPM)

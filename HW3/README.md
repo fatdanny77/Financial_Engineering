@@ -18,6 +18,7 @@ where
 * Ke^rt = present value of strike price
 * P = put premium
 * S = the current price of the underline
+這裡的Ke^rt可以想像賣空K單位債券折現回來，買了C。
 
 #### (2.) Black-Scholes Model
 假設時間為連續，股價呈常態分配。   

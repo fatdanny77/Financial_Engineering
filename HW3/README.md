@@ -17,7 +17,8 @@ where
 * C = call premium
 * Ke^rt = present value of strike price
 * P = put premium
-* S = the current price of the underline
+* S = the current price of the underline    
+
 這裡的Ke^rt可以想像賣空K單位債券折現回來，買了C。
 
 #### (2.) Black-Scholes Model

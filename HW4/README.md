@@ -25,4 +25,4 @@
 
 <img src="https://github.com/fatdanny77/Financial_Engineering/blob/master/HW4/Images/1-Common-Used-Greeks-in-Finance.png" width="30%" height="30%" />    
 上述是一些有關於選擇權避險的方式，其中都和某項敏感度有關係。    
-最常見的Delta Method便是選擇權對標的物價格敏感度，我們利用此項敏感度達到Delta neutral時，我們便對標的物價格造成的波動免疫。雌
+最常見的Delta Method便是選擇權對標的物價格敏感度，我們利用此項敏感度達到Delta neutral時，我們便對標的物價格造成的波動免疫。

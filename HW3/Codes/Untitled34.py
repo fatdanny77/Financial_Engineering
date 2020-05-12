@@ -114,4 +114,32 @@ plt.show()
 
 print("Option Price of Call : ",np.mean(payoff_c)*np.exp(-r*T))
 print("Option Price of Put : ",np.mean(payoff_p)*np.exp(-r*T))
+////////////////////////////////
+import matplotlib.pyplot as plt
+import numpy as np
+
+# State Variables
+T = 10
+N = 100 # Path
+dt = 0.01
+mu = 0.01*dt # Rendite pro Zeiteinheit
+sigma = 0.1
+S0 = 100
+np.random.seed(1)
+
+def genBrownPath (T, mu, sigma, S0, dt):
+    
+    n = round(T/dt)
+    t = np.linspace(0, T, n)
+    W = [0] + np.random.standard_normal(size = n) 
+    W = np.cumsum(W)*np.sqrt(dt) # == standard brownian motion
+    X = (mu-0.5*sigma**2)*t + sigma*W 
+    S = S0*np.exp(X) # == geometric brownian motion
+    plt.plot(t, S)
+    return S
+
+paths = []
+for i in range(0,N-1):
+    paths.append(genBrownPath(T, mu, sigma, S0, dt))
+plt.show()
 

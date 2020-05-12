@@ -1,5 +1,5 @@
 # Financial Engineering HW5
-### [**Code**](https://github.com/fatdanny77/Financial_Engineering/blob/master/HW5/Codes/Financial_Engineering_HW5_ver3.ipynb)
+### [**Code(點進去會跑得蠻久的，若跑不出來請reload，謝謝)**](https://github.com/fatdanny77/Financial_Engineering/blob/master/HW5/Codes/Financial_Engineering_HW5_ver3.ipynb)
 ### [**Flow Chart**](https://github.com/fatdanny77/Financial_Engineering/blob/master/HW5/FlowCharts/Flow_Chart.jpg)
 ### **Learning Process**
 

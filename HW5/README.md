@@ -9,6 +9,7 @@
 <img src="https://github.com/fatdanny77/Financial_Engineering/blob/master/HW5/Images/未命名2.jpg" width="50%" height="50%" />     
 #### **Hull White Model**
 然而，上述的例子假設利率式定值，但在現實生活中，利率是會隨時間改變的。因此，我們利用Hull White Model來模擬利率的變動，並代入GBM模型求出選擇權價值。    
-<img src="https://github.com/fatdanny77/Financial_Engineering/blob/master/HW5/Images/未命名4.jpg" width="50%" height="50%" />    
+    
+   <img src="https://github.com/fatdanny77/Financial_Engineering/blob/master/HW5/Images/未命名4.jpg" width="50%" height="50%" />    
 
 
